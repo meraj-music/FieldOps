@@ -2,7 +2,7 @@
 
 A full-stack web application designed to streamline project management, track key initiatives, and manage partner relationships in a single, unified platform. This application provides a centralized hub for teams to maintain clarity on goals, ownership, and progress.
 
-Key Features-
+Key Features—
 
 Initiative Management: Create, update, and delete project initiatives with status tracking (e.g., Planning, Active, Completed).
 
@@ -12,7 +12,7 @@ Goal & KPI Tracking: Define and monitor SMART goals with percentage-based progre
 
 Secure Authentication: A robust login system to protect application data.
 
-This project is built with a modern, containerized architecture-
+This project is built with a modern, containerized architecture—
 
 Frontend: React 18 (with Hooks), React Router for navigation, Standard CSS3 for styling
 
