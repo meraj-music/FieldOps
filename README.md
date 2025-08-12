@@ -8,20 +8,19 @@ Key Features:
 -Goal & KPI Tracking: Define and monitor SMART goals with percentage-based progress tracking.
 -Secure Authentication: A robust login system to protect application data.
 
-Technology Stack:
 This project is built with a modern, containerized architecture.
 
-Frontend-
+Frontend:
 -React 18 (with Hooks)
 -React Router for navigation
 -Standard CSS3 for styling
 
-Backend-
+Backend:
 -Node.js with Express.js
 -PostgreSQL for the database
 -JWT (JSON Web Tokens) for secure authentication
 
-Deployment-
+Deployment:
 -Docker & Docker Compose for containerization
 
 Getting Started:
