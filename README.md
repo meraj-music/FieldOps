@@ -1,4 +1,4 @@
-# Project/Initiative Tracker
+# FieldOps — Project/Initiative Tracker
 
 A full-stack web application designed to streamline project management, track key initiatives, and manage partner relationships in a single, unified platform. This application provides a centralized hub for collaboration and monitoring.
 
