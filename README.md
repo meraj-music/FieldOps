@@ -2,7 +2,7 @@
 
 A full-stack web application designed to streamline project management, track key initiatives, and manage partner relationships in a single, unified platform. This application provides a centralized hub for teams to maintain clarity on goals, ownership, and progress.
 
-Key Features:
+Key Features-
 
 Initiative Management: Create, update, and delete project initiatives with status tracking (e.g., Planning, Active, Completed).
 
