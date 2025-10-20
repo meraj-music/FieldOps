@@ -61,10 +61,9 @@ Since the database starts empty, you must register the first user by making a PO
 http://localhost:5000/api/auth/register
 ```
 
-with the required JSON body (e.g., username, password). 
+with the required JSON body (e.g., username, password). Using Postman:
 
-Using Postman:
-<img width="644" height="596" alt="image" src="https://github.com/user-attachments/assets/285497ce-63a7-4c0c-9f42-95b3b617e540" />
+<img width="444" height="396" alt="image" src="https://github.com/user-attachments/assets/285497ce-63a7-4c0c-9f42-95b3b617e540" />
 
 
 ---
