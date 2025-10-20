@@ -30,9 +30,17 @@ To run this application on your local machine, you will need to have Docker and 
 
 2. **Create the environment file:**
 
-   In the project's root directory, create a file named `.env` and copy the contents of `.env.example` into it. This file holds the database credentials.
+   In the project's root directory, create a file named `.env` and copy the following (this file holds the database credentials):
 
-3. **Build and run the application:**
+   ```bash
+   POSTGRES_USER=admin
+   POSTGRES_PASSWORD=yoursecurepassword
+   POSTGRES_DB=FieldOpsDB
+   DATABASE_URL=postgres://admin:yoursecurepassword@db:5432/FieldOpsDB
+   JWT_SECRET=thisisareallystrongsecretkeyforjwt
+   ```
+   
+4. **Build and run the application:**
 
    Use Docker Compose to build the images and start the containers:
 
@@ -40,7 +48,7 @@ To run this application on your local machine, you will need to have Docker and 
    docker-compose up --build
    ```
 
-4. **Access the application:**
+5. **Access the application:**
 
    - The Frontend Web App will be available at [http://localhost:3000](http://localhost:3000).
    - The Backend API will be running at [http://localhost:5000](http://localhost:5000).
