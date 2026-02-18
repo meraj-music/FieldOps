@@ -1,6 +1,6 @@
 # FieldOps — Project/Initiative Tracker
 
-A full-stack web application designed to streamline project management, track key initiatives, and manage partner relationships in a single, unified platform. This application provides a centralized hub for collaboration and monitoring.
+A full-stack web application designed to streamline project management, track key initiatives, and manage partner relationships in a single, unified platform. This application provides a centralized hub for collaboration and monitoring. (Screenshots below)
 
 ## Key Features
 
@@ -69,3 +69,15 @@ with the required JSON body (e.g., username, password). Using Postman:
 ---
 
 Feel free to reach out or open an issue for support or contributions!
+
+Screenshots:
+
+![Alt text](screenshots/Login page.png)
+![Alt text](screenshots/Initiatives page.png)
+![Alt text](screenshots/Initiatives add form.png)
+![Alt text](screenshots/Initiatives add form 2.png)
+![Alt text](screenshots/Goals & KPI page.png)
+![Alt text](screenshots/Goals & KPI add new goal form.png)
+![Alt text](screenshots/Partners page.png)
+![Alt text](screenshots/Search entry.png)
+
